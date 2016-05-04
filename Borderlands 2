@@ -1,0 +1,95 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Bootstrap 3, from LayoutIt!</title>
+
+    <meta name="description" content="Source code generated using layoutit.com">
+    <meta name="author" content="LayoutIt!">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+  </head>
+  <body>
+
+    <div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<h3 class="text-center">
+				h1.<strong>Borderlands 2</strong>
+			</h3>
+			<p class="text-center">
+				Five years have passed since the events of Borderlands, when the four Vault Hunters Roland, Mordecai, Lilith, and Brick were guided by a mysterious entity known as "The Guardian Angel" on the planet of Pandora to the Vault, a mysterious alien structure that was rumored to hold ancient and exotic technology and riches. Instead, these Vault Hunters were confronted by an alien abomination known as "The Destroyer" inside the Vault. After defeating The Destroyer, a valuable mineral called "Eridium" started flourishing through Pandora's crust. Handsome Jack, the president of the Hyperion Corporation, secures this new resource and makes use of it to attempt to "bring peace" to the planet. Now, Handsome Jack rules over the inhabitants of Pandora with an iron fist from his massive satellite always visible in the sky in front of Pandora's moon. Meanwhile, rumors of an even larger Vault hidden on Pandora spread across the galaxy, drawing a new group of Vault Hunters to the planet in search of it.
+			</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12">
+			<h3>
+				h2. Let's get started to the game
+			</h3>
+			<h3>
+				h3. The classes
+			</h3>
+			<ul>
+				<li>
+					<span>Salvador as the gunzerker</span>
+				</li>
+				<li>
+					<span>Axton as the commando</span>
+				</li>
+				<li>
+					<span>Maya as the siren</span>
+				</li>
+				<li>
+					<span>Zero as the sniper</span>
+				</li>
+				<li>
+					<span>Gaige as the mechromancer</span>
+				</li>
+				<li>
+					Krieg as the psycho
+				</li>
+			</ul>
+			<h3>
+				h3. Weapons, guns and grenades
+			</h3>
+			<ul>
+				<li>
+					<a href="#" class="btn" type="Pistols">Pistols</a>
+				</li>
+				<li>
+					<a href="#" class="btn" type="SMGs">SMGs</a>
+				</li>
+				<li>
+					<a href="#" class="btn" type="Shotguns">Shotguns</a>
+				</li>
+				<li>
+					<a href="#" class="btn" type="Sniper rifles">Sniper rifles</a>
+				</li>
+				<li>
+					<a href="#" class="btn" type="Rocket launchers">Rocket launchers</a>
+				</li>
+			</ul>
+			<h3>
+				h3. Support equipement
+			</h3>
+			<ul>
+				<li>
+					Class mods
+				</li>
+				<li>
+					Relics
+				</li>
+			</ul> 
+		</div>
+	</div>
+</div>
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/scripts.js"></script>
+  
+</body></html>
